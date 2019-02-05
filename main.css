@@ -1,0 +1,24 @@
+.main {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.logo {
+  width: 300px;
+  height: auto;
+  margin-bottom: 30px;
+}
+.logo-main {
+  display: flex;
+  flex-direction: column;
+}
+.text {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  font-family: 'Roboto', sans-serif;
+  font-size: 18px;
+  text-transform: uppercase;
+}
